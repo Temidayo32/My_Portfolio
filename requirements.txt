@@ -1,1 +1,2 @@
 jinja2==3.0.3
+mdx_gh_links==0.2

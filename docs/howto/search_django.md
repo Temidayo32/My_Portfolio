@@ -10,7 +10,7 @@ If otherwise you already have a project you are working on and just need to get 
 
 ## Prerequisites & Installations
 
-This guide is not for complete beginners to the Django framework. This guide assume you are comfortable with building a django project/app from scratch; that you are familiar with the django documentation; and that you have moved beyond the django official documentation tutorial to start trying out other parts of the django machinery on your own.
+This guide is not for complete beginners to the Django framework. This guide assumes you are comfortable with building a django project/app from scratch; that you are familiar with the django documentation; and that you have moved beyond the django official documentation tutorial to start trying out other parts of the django machinery on your own.
 
 The following prerequisites are also required:
 
@@ -101,7 +101,7 @@ If the buyer enters a search query, the `if` block is triggered, and the search 
 
 The `icontains` field lookup is utilized to ensure case insentivity of search results. The `distinct()` method is used to ensure filtered results using Q objects are unique(that is, no duplicates).  
 
-You will notice I used the "OR" logical operator which is singnified by the pipe operator (`|`) for joining the search query lookups. 
+You will notice I used the "OR" logical operator which is signified by the pipe operator (`|`) for joining the search query lookups. 
 
 ### Step Three: Templates
 
@@ -145,9 +145,9 @@ That done, we can now search the product list with search queries.
 
 ## See Also
 
-So that's it on implementing a basic search fuctionlity with  Q objects in django. 
+So that's it on implementing a basic search fuctionality with  Q objects in django. 
 
-You can also check out [search lookup functionality](https://docs.djangoproject.com/en/4.0/ref/contrib/postgres/search/) for implementing search in postgreSQL, if you are using the PostgreSQL database for your project.
+You can also check out [search lookup functionality](https://docs.djangoproject.com/en/4.0/ref/contrib/postgres/search/) for implementing search in postgreSQL if you are using the PostgreSQL database for your project.
 
 
 

@@ -1,4 +1,4 @@
-# How to Implement Search Functionality In Your Django app
+# How to Implement A Search Functionality In Your Django app
 
 In this tutorial, I will teach you how to implement a basic search funtionality using Django [Q objects](https://docs.djangoproject.com/en/4.0/topics/db/queries/#complex-lookups-with-q-objects). 
 

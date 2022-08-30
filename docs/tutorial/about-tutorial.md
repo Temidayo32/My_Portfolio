@@ -1,5 +1,8 @@
 # How to Write Good Tutorials
 
+!!! info
+    Originally published on [Contentre](https://blog.contentre.io/how-to-write-good-technical-tutorials/)
+
 Tutorials are everywhere in the technical writing world—possessing vast utilities. Whether you are trying to sell a product to your developer audience, or you are trying to onboard your developer audience to get them up and running using your product, or you are trying to help other developers learn to use certain software technologies, tutorials are always a tool you will find handy to fulfil all these functions.
 
 Next to how-tos, it is the most perused content form by software engineers creating content for usage by other software engineers; which is not surprising, given the content form lends itself easily for organising practical knowledge in written form.

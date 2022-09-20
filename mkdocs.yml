@@ -6,6 +6,7 @@ nav:
    - Tutorials: 
       - Django Tutorial: tutorial/django_tutorial.md
       - On Writing Tutorials: tutorial/about-tutorial.md
+      - MindsDB Tutorial: tutorial/mindsdb_tutorial.md
    - Opinion Posts:
       - Why Technical Writers Should be called Technical Marketers: opinion_posts/technical_marketers.md
    - Thought Leadership:

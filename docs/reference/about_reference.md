@@ -168,7 +168,7 @@ The schema on the other hand, is comprehensive of all parameter configuration or
 For good organisation, the Stripe API documentation defined the schema alongside the Charge resource description at the start, while the response samples are provided for each endpoint associated with the Charge resource.
 
 <figure markdown align="center">
-![Schema](img/Add%20a%20subheading.png)
+![Schema](img/12.png)
   <figcaption><i>Schema</i></figcaption>
 </figure>
 

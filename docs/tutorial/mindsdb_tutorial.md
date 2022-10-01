@@ -1,6 +1,9 @@
 # Predicting Home Rental Prices with MindsDB in Python
 
-In this tutorial, we'll will learn to create, train, and query a machine learning model (`predictor`) with Mindsdb in Python. You can check this [tutorial]() for a more generic approach to implementing a machine learning model with MindsDB.
+!!! info
+    Originally published on [Hashnode](https://curiousprogrammer.hashnode.dev/predicting-home-rental-prices-with-mindsdb-in-python)
+
+In this tutorial, we'll will learn to create, train, and query a machine learning model (`predictor`) with Mindsdb in Python. You can check this [tutorial](https://docs.mindsdb.com/sql/tutorials/home-rentals/) for a more generic approach to implementing a machine learning model with MindsDB.
 
 First, we need to set up a development environment. You will need access to a working MindsDB installation, which can be done locally or via [MindsDB Cloud](https://cloud.mindsdb.com/?_ga=2.121740043.1875715573.1663498526-358045687.1658244666&_gl=1*1hemhn1*_ga*MzU4MDQ1Njg3LjE2NTgyNDQ2NjY.*_ga_7LGFPGV6XV*MTY2MzU3MTAwOS4yOS4xLjE2NjM1NzI4OTEuMC4wLjA).
 

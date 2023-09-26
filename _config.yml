@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+version: 2
+build:
+  os: "windows"
+  tools:
+    python: "3.8"

@@ -6,7 +6,11 @@
 
 Hi there!
 
-My name is **Temidayo Azeez**. I am a **Technical Writer** and **Content Marketer**. 
+My name is **Temidayo Azeez**. I am a **Freelance Web designer**, **Technical Writer** and **Content Marketer**. 
+
+### Web Designer
+
+I help businesses build **SEO-optimized websites** that not only look visually appealing but also enhance user experience and drive organic traffic. Leveraging the latest design trends and best practices in web development, I create **responsive sites** tailored to meet **specific business objectives**. My approach ensures that every website I design is intuitive, **mobile-friendly**, and aligned with the **client's branding strategy**. 
 
 ### Technical Writing
 
